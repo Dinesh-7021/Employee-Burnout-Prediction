@@ -1,6 +1,4 @@
-#Employee-Burnout-Prediction
-
-# 🔥 Employee Burnout Analysis & Prediction 🏢💻  
+#  Employee Burnout Analysis & Prediction 🏢💻  
 
 A **machine learning-powered predictive model** that identifies early signs of **employee burnout**, providing organizations with data-driven insights for proactive intervention.  
 
@@ -13,12 +11,12 @@ By analyzing parameters such as **workload, work-life balance, job satisfaction,
 
 ---
 
-## 🔥 Key Features  
-✅ **Data Collection & Preprocessing** – Cleans, transforms, and normalizes datasets for accuracy  
-✅ **Exploratory Data Analysis (EDA)** – Detects burnout trends using statistical and visualization techniques  
-✅ **Predictive Modeling** – Implements **Linear Regression** and **MLP Regressor** for burnout prediction  
-✅ **Performance Evaluation** – Uses **MSE, RMSE, MAE, and R² scores** to assess model accuracy  
-✅ **Real-World Application** – Helps HR professionals implement strategic interventions for burnout prevention  
+##  Key Features  
+-> **Data Collection & Preprocessing** – Cleans, transforms, and normalizes datasets for accuracy  
+-> **Exploratory Data Analysis (EDA)** – Detects burnout trends using statistical and visualization techniques  
+-> **Predictive Modeling** – Implements **Linear Regression** and **MLP Regressor** for burnout prediction  
+-> **Performance Evaluation** – Uses **MSE, RMSE, MAE, and R² scores** to assess model accuracy  
+-> **Real-World Application** – Helps HR professionals implement strategic interventions for burnout prevention  
 
 ---
 
@@ -31,16 +29,16 @@ By analyzing parameters such as **workload, work-life balance, job satisfaction,
 
 ---
 
-## 📊 System Workflow  
+##  System Workflow  
 📌 **Data Pipeline:**  
-1️⃣ **Data Cleaning & Preprocessing** – Handles missing values, encodes categorical variables, and scales features  
-2️⃣ **Exploratory Data Analysis (EDA)** – Analyzes burnout contributors through visualization & correlation studies  
-3️⃣ **Model Training & Evaluation** – Trains machine learning models and optimizes hyperparameters  
-4️⃣ **Prediction & Reporting** – Outputs risk levels for early intervention  
+1️-> **Data Cleaning & Preprocessing** – Handles missing values, encodes categorical variables, and scales features  
+2️-> **Exploratory Data Analysis (EDA)** – Analyzes burnout contributors through visualization & correlation studies  
+3️-> **Model Training & Evaluation** – Trains machine learning models and optimizes hyperparameters  
+4️-> **Prediction & Reporting** – Outputs risk levels for early intervention  
 
 ---
 
-## 🚀 Installation & Setup  
+##  Installation & Setup  
 
 1️⃣ **Clone the Repository**  
    ```sh
@@ -84,15 +82,15 @@ By analyzing parameters such as **workload, work-life balance, job satisfaction,
 ---
 
 ## 🔮 Future Enhancements  
-✨ **Real-time Data Integration for Continuous Monitoring**  
-✨ **HR Dashboard with Predictive Analytics**  
-✨ **Sentiment Analysis from Employee Feedback**  
-✨ **Integration with Workplace Wellness Platforms**  
+-> **Real-time Data Integration for Continuous Monitoring**  
+-> **HR Dashboard with Predictive Analytics**  
+-> **Sentiment Analysis from Employee Feedback**  
+-> **Integration with Workplace Wellness Platforms**  
 
 ---
 
 ## 🤝 Contributing  
-We welcome contributions! 🚀  
+We welcome contributions!  
 - **Fork the repository** and create a new branch  
 - **Submit a pull request** with detailed explanations  
 - **Report issues** and suggest improvements in the Issues tab  
@@ -104,4 +102,4 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ---
 
-🚀 **Let’s create healthier workplaces together!** If you like this project, please ⭐ star the repository.  
+ **Let’s create healthier workplaces together!** If you like this project, please ⭐ star the repository.  
